@@ -22,7 +22,7 @@ terraform output site_url
 
 CloudFront のデプロイ完了まで apply 後 5〜10 分かかることがあります。
 
-## 片付け
+## 課金リソース削除
 
 ```bash
 terraform destroy
